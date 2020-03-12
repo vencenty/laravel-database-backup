@@ -1,0 +1,14 @@
+{
+  "Id": "ID",
+  "Name": "客户名称",
+  "Database ip": "数据库IP",
+  "domain": "域名",
+  "Database name": "数据库名称",
+  "Created at": "创建时间",
+  "Updated at": "更新时间",
+  "Email": "邮箱",
+  "Username": "用户名",
+  "Server type": "服务器类型",
+  "Password": "密码",
+  "Remark": "备注"
+}
