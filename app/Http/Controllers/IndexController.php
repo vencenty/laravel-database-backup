@@ -10,9 +10,7 @@ class IndexController extends Controller
 {
     public function index()
     {
-
-
-
+        return $_SERVER;
 
 
         // step1. 执行登陆

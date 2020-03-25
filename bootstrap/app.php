@@ -40,6 +40,9 @@ $app->singleton(
     Illuminate\Contracts\Debug\ExceptionHandler::class,
     App\Exceptions\Handler::class
 );
+//$sleep = mt_rand(100000, 3000000);
+//usleep($sleep);
+//0x00~0x7f
 
 /*
 |--------------------------------------------------------------------------
